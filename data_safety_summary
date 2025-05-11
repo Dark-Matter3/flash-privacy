@@ -1,0 +1,19 @@
+Data collected:
+- App usage data (e.g. feature engagement, screen time)
+- Crash logs (via Firebase Crashlytics)
+- Device type and OS version
+
+Data usage:
+- Analytics and app performance monitoring
+- Bug fixing and crash diagnostics
+
+Data shared:
+- None
+
+Data encryption:
+- Yes, all data transmitted and stored securely
+
+User control:
+- No sign-in required
+- No user account system currently
+- Users can uninstall the app to remove local data
